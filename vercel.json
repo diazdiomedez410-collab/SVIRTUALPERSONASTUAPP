@@ -1,0 +1,4 @@
+{
+  "buildCommand": "node scripts/ensure-plugin.js && npm run build",
+  "outputDirectory": "dist"
+}
